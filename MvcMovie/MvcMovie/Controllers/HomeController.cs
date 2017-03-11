@@ -29,7 +29,6 @@ namespace MvcMovie.Controllers
 
         public IActionResult Error()
         {
-
             return View();
         }
     }
